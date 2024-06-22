@@ -2,6 +2,9 @@
 
 ![image](https://github.com/Deepcoder2905/Bluetooth-Controlled-Car/assets/148648766/e5b4c671-8be0-4423-9823-8f3061f31b6c)
 
+## About Repository
+- This Repository include the photos of the project along with the code file in language C++ in .ino format, named as imp
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
